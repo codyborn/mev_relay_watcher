@@ -1,0 +1,44 @@
+[
+    {
+      "relay_operator": "flashbots",
+      "relay_name": "main",
+      "relay_url": "https://boost-relay.flashbots.net",
+      "min_slot_number": 4726420
+    },
+    {
+      "relay_operator": "bloxroute",
+      "relay_name": "ethical",
+      "relay_url": "https://bloxroute.ethical.blxrbdn.com",
+      "min_slot_number": 4726413
+    },
+    {
+      "relay_operator": "bloxroute",
+      "relay_name": "max_profit",
+      "relay_url": "https://bloxroute.max-profit.blxrbdn.com",
+      "min_slot_number": 4726372
+    },
+    {
+      "relay_operator": "bloxroute",
+      "relay_name": "regulated",
+      "relay_url": "https://bloxroute.regulated.blxrbdn.com",
+      "min_slot_number": 4725727
+    },
+    {
+      "relay_operator": "blocknative",
+      "relay_name": "main",
+      "relay_url": "https://builder-relay-mainnet.blocknative.com",
+      "min_slot_number": 4726096
+    },
+    {
+      "relay_operator": "eden",
+      "relay_name": "main",
+      "relay_url": "https://relay.edennetwork.io",
+      "min_slot_number": 4707084
+    },
+    {
+      "relay_operator": "manifold",
+      "relay_name": "main",
+      "relay_url": "https://mainnet-relay.securerpc.com",
+      "min_slot_number": 4724547
+    }
+  ]

@@ -1,0 +1,15 @@
+{
+  "name": "relayer-data-collector",
+  "version": "1.0.0",
+  "description": "Queries and stores relayer block builder data to BigQuery",
+  "main": "relayer-data-collector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/bigquery": "^6.0.3",
+    "fs": "^0.0.1-security"
+  }
+}
